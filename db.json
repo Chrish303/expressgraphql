@@ -1,0 +1,22 @@
+{
+    "users":[
+    {"id":"1","firstname":"chrish","age":20,"companyId":"1"},
+    {"id":"2","firstname":"sobith","age":21,"companyId":"5"},
+    {"id":"3","firstname":"ajay","age":22,"companyId":"4"},
+    {"id":"4","firstname":"ajil","age":23,"companyId":"3"},
+    {"id":"5","firstname":"vikash","age":24,"companyId":"6"},
+    {"id":"6","firstname":"vicky","age":25,"companyId":"2"},
+    {"id":"7","firstname":"barish","age":26,"companyId":"3"},
+    {"id":"8","firstname":"sheik","age":27,"companyId":"2"}
+],
+    "companies":[
+        {"id":"1","name":"apple","description":"Iphone"},
+        {"id":"2","name":"smansung","description":"SM 23-ultra"},
+        {"id":"3","name":"xiami","description":"Note6pro"},
+        {"id":"4","name":"vivo","description":"vivoy20"},
+        {"id":"5","name":"oppo","description":"reno3pro"},
+        {"id":"6","name":"lenova","description":"thinkpad"}
+        
+    ]
+
+}
